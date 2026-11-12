@@ -1,0 +1,75 @@
+
+{
+  "id": "dessert-personality",
+  "title": "你是哪種甜點人格？🍰",
+  "description": "從日常生活的小選擇，看看你的個性最像哪一款甜點！",
+  "questions": [
+    {
+      "text": "難得有一天完全沒事，你最想做什麼？",
+      "options": [
+        {"text": "約朋友出去玩", "result": "strawberry"},
+        {"text": "在家安靜看書", "result": "matcha"},
+        {"text": "挑戰沒做過的事", "result": "chocolate"},
+        {"text": "隨心情安排一天", "result": "macaron"}
+      ]
+    },
+    {
+      "text": "朋友心情不好時，你會怎麼做？",
+      "options": [
+        {"text": "陪他聊天、給他擁抱", "result": "strawberry"},
+        {"text": "安靜聽他說心事", "result": "matcha"},
+        {"text": "幫他想解決辦法", "result": "chocolate"},
+        {"text": "帶他去做有趣的事", "result": "macaron"}
+      ]
+    },
+    {
+      "text": "你最喜歡哪種旅行？",
+      "options": [
+        {"text": "和朋友一起熱鬧旅行", "result": "strawberry"},
+        {"text": "悠閒的自然療癒之旅", "result": "matcha"},
+        {"text": "充滿挑戰的冒險旅行", "result": "chocolate"},
+        {"text": "說走就走的隨興旅行", "result": "macaron"}
+      ]
+    },
+    {
+      "text": "面對困難時，你通常會？",
+      "options": [
+        {"text": "找信任的人討論", "result": "strawberry"},
+        {"text": "冷靜思考再行動", "result": "matcha"},
+        {"text": "勇敢面對並解決", "result": "chocolate"},
+        {"text": "換個角度尋找靈感", "result": "macaron"}
+      ]
+    },
+    {
+      "text": "朋友通常怎麼形容你？",
+      "options": [
+        {"text": "溫暖又親切", "result": "strawberry"},
+        {"text": "沉穩又細心", "result": "matcha"},
+        {"text": "勇敢又可靠", "result": "chocolate"},
+        {"text": "活潑又有創意", "result": "macaron"}
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "strawberry",
+      "title": "🍓 草莓蛋糕人格",
+      "description": "你就像草莓蛋糕一樣，甜美又充滿溫暖！你很重視身邊的人，也擅長帶給大家快樂。朋友遇到困難時，你總願意陪伴他們。你的親切讓人很容易卸下心防。不過，也別忘了偶爾把自己的需求放在第一位，好好照顧自己。"
+    },
+    {
+      "id": "matcha",
+      "title": "🍵 抹茶布丁人格",
+      "description": "你就像抹茶布丁，溫柔而有層次。你喜歡觀察生活中的細節，也享受安靜獨處的時光。雖然你不一定是人群中最顯眼的人，但總能在重要時刻給予朋友支持。你有自己的步調，不需要急著跟上所有人的速度。"
+    },
+    {
+      "id": "chocolate",
+      "title": "🍫 巧克力布朗尼人格",
+      "description": "你就像濃郁的巧克力布朗尼，外表堅定，內心卻藏著細膩的情感。面對挑戰時，你通常不會輕易退縮，也很願意為自己的目標努力。你給人可靠的感覺，但偶爾也可以放心依靠別人，不需要什麼事情都自己承擔。"
+    },
+    {
+      "id": "macaron",
+      "title": "🌈 馬卡龍人格",
+      "description": "你就像色彩繽紛的馬卡龍，充滿創意與驚喜！你喜歡新鮮事物，不太喜歡一成不變的生活。你的想法常常讓朋友眼睛一亮，也能替平凡的日子增添樂趣。只要試著把靈感化為行動，你就能創造更多屬於自己的精彩故事。"
+    }
+  ]
+}
